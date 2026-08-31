@@ -1,0 +1,44 @@
+.mermaid {
+  background-color: #ffffff !important;
+}
+
+.mermaid .label {
+  font-family: 'trebuchet ms', verdana, arial, sans-serif !important;
+}
+
+.mermaid .node rect,
+.mermaid .node circle,
+.mermaid .node ellipse,
+.mermaid .node polygon,
+.mermaid .node path {
+  fill: #ECECFF !important;
+  stroke: #CCCCFF !important;
+  stroke-width: 1px !important;
+}
+
+.mermaid .edgePath .path {
+  stroke: #333333 !important;
+  stroke-width: 1.5px !important;
+}
+
+.mermaid text {
+  font-family: 'trebuchet ms', verdana, arial, sans-serif !important;
+}
+
+.mermaid .actor {
+  fill: #ECECFF !important;
+  stroke: #CCCCFF !important;
+}
+
+.mermaid text.actor {
+  font-family: 'trebuchet ms', verdana, arial, sans-serif !important;
+}
+
+.mermaid .messageLine0,
+.mermaid .messageLine1 {
+  stroke: #333 !important;
+}
+
+.mermaid .messageText {
+  font-family: 'trebuchet ms', verdana, arial, sans-serif !important;
+}

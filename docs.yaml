@@ -1,0 +1,16 @@
+$schema: https://api.gitbook.com/openapi.yaml#/components/schemas/GitSyncSiteConfig
+site:
+  title: NCPDP Telecom Format
+  structure:
+    - type: section
+      key: ncpdp
+      title: NCPDP Telecom Format
+      path: ncpdp
+      children:
+        - type: space
+          key: docs
+          title: Documentation
+          path: docs
+          default: true
+          content:
+            directory: ./docs

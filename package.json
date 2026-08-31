@@ -1,0 +1,14 @@
+{
+  "name": "ncpdp-docs",
+  "version": "1.0.0",
+  "description": "NCPDP Telecom Format documentation and study guide",
+  "private": true,
+  "scripts": {
+    "serve": "honkit serve docs",
+    "build": "honkit build docs"
+  },
+  "devDependencies": {
+    "honkit": "^6.2.2",
+    "honkit-plugin-mermaid": "^0.1.4"
+  }
+}

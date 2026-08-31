@@ -1,0 +1,11 @@
+{
+  "title": "NCPDP Telecom Format",
+  "description": "A study guide for the NCPDP telecommunication standard for pharmacy claims",
+  "author": "NCPDP Docs",
+  "language": "en",
+  "gitbook": ">=3.0.0",
+  "plugins": ["mermaid"],
+  "styles": {
+    "website": "styles/website.css"
+  }
+}
